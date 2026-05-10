@@ -1,0 +1,8 @@
+{
+  "firestore": {
+    "database": "veritas",
+    "location": "nam5",
+    "rules": "firebase deploy",
+    "indexes": "firestore.indexes.json"
+  }
+}
